@@ -1,0 +1,11 @@
+.education-work-section {
+    
+}
+.section-body {
+    ul {
+        li {
+            @extend %p-30;
+            box-shadow: 0px 0px 5px rgba($white-color, $alpha: .1);
+        }
+    }
+}

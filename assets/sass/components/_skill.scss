@@ -1,0 +1,37 @@
+.skill-list {
+    ul {
+        padding: 30px;
+        box-shadow: 0px 0px 5px rgba($white-color, $alpha: .1);
+        li {
+            padding: 10px 0;
+            font-weight: 700;
+            font-family: $font-title;
+            i {
+                @extend %mr-5;
+                color: $theme-color3;
+            }
+        }
+    }
+}
+.col-12 {
+    &:nth-child(even) {
+        .skill-list {
+            ul {
+                // background: $ash-color2;
+                li {
+                    i, svg {
+                        color: $theme-color4;
+                    }
+                }
+            }
+        }
+    }
+}
+.skill-section {
+    .section-head {
+        padding: 18px 15px;
+        h3 {
+            line-height: 1.5;
+        }
+    }
+}

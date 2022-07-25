@@ -1,0 +1,81 @@
+/**
+ * Basic typography style for copy text
+ */
+body {
+  @include font-size($fs-base);
+  color: $white-color;
+  font: normal 125% / 1.4;
+  line-height: 1.7;
+  font-family: $font-text;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 700;
+    color: $white-color;
+    text-transform: uppercase;
+    @include transition($transition);
+    font-family: $font-title;
+  }
+
+  h1{
+    @include font-size($fs-h1);
+  }
+  h2{
+    @include font-size($fs-h2);
+  }
+  h3{
+    @include font-size($fs-h3);
+  }
+  h4{
+    @include font-size($fs-h4);
+  }
+  h5{
+    @include font-size($fs-h5);
+  }
+  h6{
+    @include font-size($fs-h6);
+  }
+
+  a>h1,
+  a>h2,
+  a>h3,
+  a>h4,
+  a>h5,
+  a>h6 {
+    @include transition($transition);
+  }
+
+  a {
+    @include transition($transition);
+    display: inline-block;
+    text-decoration: none;
+    color: $desc-color;
+    &:hover {
+      color: $theme-color;
+    }
+
+  }
+
+  ul {
+    @extend %mp-0;
+  }
+  img {
+    @include transition($transition);
+  }
+  .navbar-light .navbar-nav .nav-link {
+    @extend %text-midium;
+    @include transition($transition);
+    &.active, &:hover {
+      color: $theme-color;
+    }
+  }
+  button  {
+    &:active,&:focus,&:focus-within{
+      box-shadow: none !important;
+    }
+  }
+}

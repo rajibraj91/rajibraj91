@@ -1,0 +1,71 @@
+/*!
+Template Name: SeeKar
+Template URI: 
+Author: labartisan.net
+Author URI: 
+Description: Description
+Version: 1.0.0
+Text Domain: SeeKar
+Tags: conference, consultations, courses, event, exhibition, landing page, meeting, Meetup, responsive, seminar, startup, summit
+
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+# Global CSS
+# Header CSS
+# Page Header
+# Banner
+# Main
+# Blog
+# Blog Widget
+# Contact Us
+#Footer
+--------------------------------------------------------------*/
+
+
+
+@charset "UTF-8";
+
+
+// 1. Configuration and helpers
+@import 'abstracts/variables',
+'abstracts/mixins';
+
+
+// 2. Vendors
+@import 'vendors/normalize',
+'vendors/rfs';
+
+
+// 3. Base stuff
+@import 'base/typography',
+'base/animation',
+'base/extend',
+'base/utilities';
+
+
+// 4. Layout-related sections
+@import 'layout/preloder';
+@import 'layout/global';
+@import 'layout/header';
+@import 'layout/banner';
+@import 'layout/footer';
+
+
+// 5. Components
+@import 'components/about';
+@import 'components/skill';
+@import 'components/button';
+@import 'components/work-education';
+@import 'components/contact';
+@import 'components/blog';
+
+
+// 6. Page-specific styles
+// @import 'pages/';
+
+// 7. Themes
+@import 'themes/default';

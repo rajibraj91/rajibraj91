@@ -1,0 +1,109 @@
+.about-section {
+    margin-top: -165px;
+    .about-area {
+        // padding: 25px;
+    }
+}
+.about-sidebar {
+    padding: 50px 15px 0px;
+    border-radius: 12px;
+    @extend %rel;
+    @extend %text-center;
+    box-shadow: 0px 0px 5px rgba(255, 255, 255, .1);
+    .about-thumb {
+        @extend %rel;
+        z-index: 1;
+        @extend %mb-15;
+        img {
+            border: 10px solid $white-color;
+        }
+    }
+    .about-content {
+        h4 {}
+        span {
+            font-family: $font-title;
+        }
+        ul {
+            text-align: left;
+            padding-inline: 15px;
+            @extend %mt-20;
+            li {
+                @extend %flex;
+                @extend %justify-between;
+                padding: 15px 0;
+                font-family: $font-title;
+                border-bottom: 1px solid rgba(255, 255, 255, .1);
+                &:last-child {
+                    border-bottom: none;
+                }
+                @include breakpoint(max-sm) {
+                    text-align: center;
+                }
+                .ac-left {
+                    width: 100%;
+                    @extend %rel;
+                    @include breakpoint(sm) {
+                        width: 100px;
+                    }
+                    &::after {
+                        @extend %abs;
+                        right: -10px;
+                        font-weight: 700;
+                        @include breakpoint(sm) {
+                            content: ":";
+                        }
+                    }
+                }
+                .ac-right {
+                    width: 100%;
+                    @include breakpoint(sm) {
+                        padding-left: 20px;
+                        width: calc(100% - 100px);
+                        text-align: left;
+                    }
+                    ul {
+                        @extend %mt-0, %p-0;
+                        li {
+                            border: none;
+                            display: inline-block;
+                            @extend %p-0;
+                            a {
+                                color: $white-color;
+                                margin-right: 10px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .social-media {
+            ul {
+                justify-content: center;
+                @extend %mt-0;
+                li {
+                    border: none;
+                    a {
+                        color: $desc-color;
+                    }
+                }
+            }
+        }
+    }
+}
+.about-mainpart {
+    .about-video {}
+    .about-content {
+        padding: 30px 0;
+        @include breakpoint(lg) {
+            padding: 60px 0 40px;
+        }
+        h3 {
+            @extend %mb-20;
+        }
+        p {}
+        .default-btn {
+            @extend %mt-30;
+        }
+
+    }
+}
