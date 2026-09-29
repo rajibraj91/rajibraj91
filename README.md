@@ -1,112 +1,81 @@
-# Hi, I'm Rajib Raj 👋
+# Hey, I'm Rajib Raj 👋
 
 ### WordPress & Frontend Developer
 
-I build modern web experiences and practical software solutions with a strong focus on **WordPress, PHP, frontend development, and AI-powered applications**.
+I build practical web solutions with **WordPress, PHP, modern frontend technologies, and AI**.
 
-Currently working at **WebCode Technology**, where I work across WordPress products, web applications, automation systems, and AI-driven solutions.
-
----
-
-## What I Build
-
-- Custom WordPress Themes & Plugins
-- Elementor & WooCommerce Solutions
-- PHP-based Web Applications
-- React & Next.js Applications
-- REST API Integrations
-- AI-powered Applications
-- Automation Systems
-- Business & Management Systems
-- SaaS Products
+Currently working at **WebCode Technology**, building websites, business systems, automation workflows, and AI-powered applications.
 
 ---
 
-## Tech Stack
+## ⚡ What I Work With
 
-### Frontend
+**WordPress** · **PHP** · **JavaScript** · **React** · **Next.js** · **WooCommerce** · **REST API**
 
-`HTML5` `CSS3` `JavaScript` `React` `Next.js` `SASS` `Bootstrap`
-
-### WordPress & Backend
-
-`WordPress` `PHP` `WooCommerce` `REST API` `MySQL`
-
-### Tools & Workflow
-
-`Git` `GitHub` `VS Code` `cPanel` `Webuzo` `Docker`
-
-### Exploring
-
-`Laravel` `AI Agents` `Voice AI` `SaaS Architecture` `Automation`
+I enjoy turning real-world problems into clean, maintainable, and scalable web solutions.
 
 ---
 
-## Current Focus
+## 🧩 Core Expertise
 
-I'm currently exploring the intersection of **web development, AI, automation, and scalable software systems**.
+| Area | Technologies |
+| --- | --- |
+| WordPress | Themes, Plugins, Elementor, WooCommerce |
+| Backend | PHP, MySQL, REST API |
+| Frontend | JavaScript, React, Next.js, HTML, CSS |
+| Tools | Git, GitHub, SASS, Bootstrap |
+| Exploring | Laravel, AI Agents, Voice AI, SaaS |
 
-Some of the areas I'm working with:
+---
 
-- AI Assistants
-- Voice AI Agents
-- Web Automation
-- SaaS Architecture
-- Modern PHP Applications
+## 🚀 Currently Exploring
+
+I'm currently moving deeper into:
+
+- AI Agents & Automation
+- Voice AI
+- Laravel & Modern PHP
 - React / Next.js
-- WordPress Engineering
+- SaaS Architecture
 - API & System Integration
+- Scalable Web Applications
 
 ---
 
-## Development Approach
-
-> Build with purpose.  
-> Keep the code clean.  
-> Understand the system.  
-> Ship consistently.
-
-I believe good software is not just about writing code.
-
-It's about understanding the problem, designing a practical solution, and building something that can grow.
-
----
-
-## Featured Work
+## 💼 What I Build
 
 ### WordPress Engineering
-
-Custom themes, plugins, Elementor integrations, WooCommerce solutions, custom post types, AJAX functionality, REST APIs, and reusable WordPress architecture.
+Custom themes, plugins, Elementor integrations, WooCommerce solutions, CPTs, AJAX, REST APIs and reusable WordPress architecture.
 
 ### AI & Automation
-
-AI assistants, conversational systems, workflow automation, AI-powered business tools, and voice-based applications.
+AI assistants, conversational systems, automation workflows and AI-powered business tools.
 
 ### Modern Web Applications
-
-React and Next.js applications, PHP-based systems, APIs, dashboards, and business management platforms.
-
----
-
-## Portfolio
-
-🌐 **[Visit My Portfolio](https://labartisan.net/rajibraj/)**
+React / Next.js applications, PHP systems, dashboards, APIs and business management platforms.
 
 ---
 
-## Let's Build Something Useful
+## 🧠 How I Build
 
-I'm interested in:
+> Understand the problem.  
+> Design the system.  
+> Write clean code.  
+> Ship something useful.
 
-- WordPress Engineering
-- SaaS Products
-- AI Applications
-- Web Automation
-- Business Software
-- Modern Web Applications
+I care about **maintainability, simplicity and real-world usability**.
 
 ---
 
-### Thanks for visiting my profile. 👋
+## 🌐 Portfolio
 
-If you find something useful here, feel free to explore the repositories.
+**[Visit my portfolio →](https://labartisan.net/rajibraj/)**
+
+---
+
+## 🤝 Let's Connect
+
+Interested in:
+
+`WordPress` · `SaaS` · `AI` · `Automation` · `Web Applications`
+
+Thanks for stopping by. ⭐
