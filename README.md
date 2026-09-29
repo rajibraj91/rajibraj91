@@ -1,106 +1,112 @@
-
-# 👋 Hi, I'm Rajib Raj
+# Hi, I'm Rajib Raj 👋
 
 ### WordPress & Frontend Developer
 
-I build modern, scalable and user-focused web solutions with a strong focus on **WordPress, PHP, frontend development, and AI-powered applications.**
+I build modern web experiences and practical software solutions with a strong focus on **WordPress, PHP, frontend development, and AI-powered applications**.
 
-Currently working as a **Junior Developer at WebCode Technology**, where I work on WordPress products, web applications, automation systems and AI-driven solutions.
-
----
-
-## 🚀 What I Build
-
-- 🧩 Custom WordPress Themes & Plugins
-- ⚡ Modern Frontend Applications
-- 🛒 WooCommerce Solutions
-- 🔌 API Integrations & Automation
-- 🤖 AI-powered Web Applications
-- 🏥 Healthcare & Doctor Digital Solutions
-- 📊 Business Management Systems
-- 🚀 SaaS & Web Applications
+Currently working at **WebCode Technology**, where I work across WordPress products, web applications, automation systems, and AI-driven solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
+
+- Custom WordPress Themes & Plugins
+- Elementor & WooCommerce Solutions
+- PHP-based Web Applications
+- React & Next.js Applications
+- REST API Integrations
+- AI-powered Applications
+- Automation Systems
+- Business & Management Systems
+- SaaS Products
+
+---
+
+## Tech Stack
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+`HTML5` `CSS3` `JavaScript` `React` `Next.js` `SASS` `Bootstrap`
 
-### WordPress & PHP
+### WordPress & Backend
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+`WordPress` `PHP` `WooCommerce` `REST API` `MySQL`
 
 ### Tools & Workflow
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+`Git` `GitHub` `VS Code` `cPanel` `Webuzo` `Docker`
+
+### Exploring
+
+`Laravel` `AI Agents` `Voice AI` `SaaS Architecture` `Automation`
 
 ---
 
-## 💼 Development Focus
+## Current Focus
 
-### 🧩 WordPress Development
+I'm currently exploring the intersection of **web development, AI, automation, and scalable software systems**.
 
-Custom themes, plugins, Elementor integrations, WooCommerce solutions, Custom Post Types, AJAX functionality, REST APIs and performance-focused WordPress development.
+Some of the areas I'm working with:
 
-### 🤖 AI & Automation
-
-Exploring AI assistants, conversational systems, workflow automation and voice-based AI applications.
-
-### 🚀 SaaS & Modern Web
-
-Building towards scalable web applications using modern frontend frameworks, PHP backends, APIs, databases and cloud infrastructure.
-
----
-
-## 🌱 Currently Exploring
-
-- AI Agents
-- Voice AI
-- Laravel
-- Next.js
-- SaaS Architecture
-- API Integration
+- AI Assistants
+- Voice AI Agents
 - Web Automation
-- System Design
-- Scalable Web Applications
+- SaaS Architecture
+- Modern PHP Applications
+- React / Next.js
+- WordPress Engineering
+- API & System Integration
 
 ---
 
-## 🧠 Development Philosophy
+## Development Approach
 
-> Build simple.  
-> Understand deeply.  
-> Ship consistently.  
-> Keep learning.
+> Build with purpose.  
+> Keep the code clean.  
+> Understand the system.  
+> Ship consistently.
 
-I believe good software is not only about writing code — it's about solving real problems with clean, maintainable and scalable systems.
+I believe good software is not just about writing code.
 
----
-
-## 🌐 Portfolio
-
-**[Visit My Portfolio →](https://labartisan.net/rajibraj/)**
+It's about understanding the problem, designing a practical solution, and building something that can grow.
 
 ---
 
-## 🤝 Let's Connect
+## Featured Work
 
-I'm interested in building:
+### WordPress Engineering
 
-- WordPress products
-- SaaS platforms
-- AI applications
-- Automation systems
-- Modern web applications
+Custom themes, plugins, Elementor integrations, WooCommerce solutions, custom post types, AJAX functionality, REST APIs, and reusable WordPress architecture.
 
-Thanks for visiting my profile. ⭐
+### AI & Automation
+
+AI assistants, conversational systems, workflow automation, AI-powered business tools, and voice-based applications.
+
+### Modern Web Applications
+
+React and Next.js applications, PHP-based systems, APIs, dashboards, and business management platforms.
+
+---
+
+## Portfolio
+
+🌐 **[Visit My Portfolio](https://labartisan.net/rajibraj/)**
+
+---
+
+## Let's Build Something Useful
+
+I'm interested in:
+
+- WordPress Engineering
+- SaaS Products
+- AI Applications
+- Web Automation
+- Business Software
+- Modern Web Applications
+
+---
+
+### Thanks for visiting my profile. 👋
+
+If you find something useful here, feel free to explore the repositories.
